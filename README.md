@@ -1,5 +1,5 @@
-# recipe-README
+# README
 
 1st Odin Project.
-Recipes.
+Recipes from King Arthur's Website.
 Hello All!
